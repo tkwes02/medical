@@ -37,6 +37,6 @@
 	
 	<hr>
 	
-	<a href="services.php" class="button previous">&laquo; Back to Menu</a>
+	<a href="services.php" class="button previous">&laquo; Back to Services</a>
 			
 <?php include('includes/footer.php'); ?>

@@ -5,7 +5,7 @@
 	$navItems = array(
 				
 					array(
-						"slug"	=> "main.php",
+						"slug"	=> "index.php",
 						"title"	=> "Home"
 					),
 				
