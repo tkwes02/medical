@@ -1,5 +1,5 @@
 <?php
-	define("TITLE", "Team | Franklin's Fine Dining");
+	define("TITLE", "Team | Meet Our Team");
 	
 	include('includes/header.php');
 ?>

@@ -1,6 +1,6 @@
 <?php
 	
-	define("TITLE", "Menu | Franklin's Fine Dining");
+	define("TITLE", "Services | Optometry");
 	
 	include('includes/header.php');
 	
