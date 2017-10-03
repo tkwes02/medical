@@ -32,7 +32,7 @@
 			
 			</div><!-- footer -->
 			
-			<small>&copy;<?php echo date('Y'); ?> <a href="http:/kulio712.com/" target="_blank"> <?php echo $companyName; ?></a></small>
+			<small>&copy;<?php echo date('Y'); ?> <a href="http://kulio712.com/" target="_blank"> <?php echo $companyName; ?></a></small>
 		
 		</div><!-- content -->
 		
