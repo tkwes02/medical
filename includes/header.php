@@ -16,7 +16,7 @@
 	<div class="wrapper">
 	
 		<div id="banner">
-			<a href="/" title="Return to Main Page">
+			<a href="index.html" title="Return to Main Page">
 				<div class="bgimg-1">
 				</div>
 			</a>	
