@@ -7,8 +7,7 @@
 	<div id="team-members" class="cf">
 	
 		<h1>Our Team</h1>
-		<p>We're small, but mighty. Vision Wellness has been a family-owned and run business since the dirty eighties, a
-		nd we're proud of it! When you get these three together, you never know what can happen. But you can count on one thing: 
+		<p>We're small, but mighty. Vision Wellness has been a family-owned and run business since the dirty eighties, and we're proud of it! When you get these three together, you never know what can happen. But you can count on one thing: 
 		<strong>The best vision care you've ever had. Ever.</strong></p>
 		
 		<hr>
