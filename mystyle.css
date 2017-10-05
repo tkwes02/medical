@@ -38,7 +38,18 @@
   color: #000;
 }
 
+.not-active {
+   pointer-events: none;
+   cursor: default;
+}
 
+@media only screen and (min-width: 64em) {
+    /* add the code */
+    .not-active {
+       pointer-events: none;
+       cursor: default;
+    }
+}
 
 .caption span.border {
   
